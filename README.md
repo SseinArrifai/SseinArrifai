@@ -5,4 +5,4 @@
 
 Here are some ideas to get you started:
 
-Student of UTM Kuala Lumpur under the faculty of MJIIT
+-Student of UTM Kuala Lumpur under the faculty of MJIIT
