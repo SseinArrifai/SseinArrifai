@@ -1,8 +1,5 @@
-### Hi, 👋 i'm Hussein Nazif Ar Rifa'i
+<h1 align="center">Hi 👋, I'm Ahmad Razan Alkhawarizmi</h1>
+<h3 align="center">Student from Universiti Teknologi malaysia</h3>
 
-<!--
-**SseinArrifai/SseinArrifai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--Student of UTM Kuala Lumpur under the faculty of MJIIT
+##Connect:
+[![Instagram](https://img.shields.io/badge/Instagram-%40husseinnazifa)](https://www.instagram.com/husseinnazifa/)
